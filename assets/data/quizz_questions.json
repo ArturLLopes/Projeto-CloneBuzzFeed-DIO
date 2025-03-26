@@ -1,0 +1,63 @@
+{
+  "title": "Qual classe de RPG combina mais com você?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual arma você escolheria para a batalha?",
+      "options": [
+        {"id": 1, "name": "Espada e escudo", "alias": "A"},
+        {"id": 2, "name": "Arco e flecha", "alias": "B"},
+        {"id": 3, "name": "Cajado mágico", "alias": "C"},
+        {"id": 4, "name": "Adagas", "alias": "D"}
+      ]
+    },
+    {
+      "id": 2,
+      "question": "O que você faz quando seu grupo encontra um inimigo poderoso?",
+      "options": [
+        {"id": 1, "name": "Corro para frente e seguro os golpes.", "alias": "A"},
+        {"id": 2, "name": "Ataco à distância para causar dano.", "alias": "B"},
+        {"id": 3, "name": "Me posiciono estrategicamente e curo meus aliados.", "alias": "C"},
+        {"id": 4, "name": "Lanço buffs e debuffs para ajudar a equipe.", "alias": "D"}
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Qual sua prioridade em uma batalha?",
+      "options": [
+        {"id": 1, "name": "Proteger meus aliados.", "alias": "A"},
+        {"id": 2, "name": "Eliminar os inimigos rapidamente.", "alias": "B"},
+        {"id": 3, "name": "Manter a equipe viva.", "alias": "C"},
+        {"id": 4, "name": "Controlar o campo de batalha.", "alias": "D"}
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Como você se prepara antes de uma missão?",
+      "options": [
+        {"id": 1, "name": "Pego minha melhor armadura.", "alias": "A"},
+        {"id": 2, "name": "Afiando minhas armas e preparando feitiços de ataque.", "alias": "B"},
+        {"id": 3, "name": "Verifico minhas poções e feitiços de cura.", "alias": "C"},
+        {"id": 4, "name": "Crio estratégias e reforço meu grupo.", "alias": "D"}
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Como seus companheiros de equipe descrevem você?",
+      "options": [
+        {"id": 1, "name": "O escudo da equipe.", "alias": "A"},
+        {"id": 2, "name": "O destruidor implacável.", "alias": "B"},
+        {"id": 3, "name": "O anjo da guarda.", "alias": "C"},
+        {"id": 4, "name": "O estrategista brilhante.", "alias": "D"}
+      ]
+    }
+  ],
+  "results": {
+    "A": "Você é um Tank! 🌟 Sua presença na linha de frente inspira coragem. Escudos rachados e armaduras amassadas são sua marca registrada 🛡️!",
+    "B": "DPS implacável! 💥 Seu estilo é eliminar inimigos antes que percebam a ameaça. Precisão e velocidade são suas armas! Você é o pesadelo dos inimigos🔪!",
+    "C": "Healer nato! 💖 Suas mãos curam, mas também trazem esperança. O grupo sobrevive graças ao seu julgamento rápido.",
+    "D": "Mente estratégica! 🧠 Support é seu dom. Você prevê movimentos inimigos e transforma derrotas em vitórias."
+
+  }
+}
+
