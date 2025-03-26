@@ -1,59 +1,38 @@
-# PjBf
+# Projeto Clone BuzzFeed 🎯
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.5.
+Bem-vindo ao projeto **Clone BuzzFeed**! Este repositório contém uma réplica dinâmica e interativa do popular site BuzzFeed, desenvolvido como parte do Bootcamp Decola Tec 2025 da Digital Innovation One (DIO). O projeto foca na criação de quizzes envolventes e conteúdo baseado em listas, com um design moderno e responsivo.
 
-## Development server
+<p align="center">
+<img 
+    src="https://github.com/user-attachments/assets/90cb65ba-c084-4b61-8d8d-a9a2ad18f696"
+    width="400"  
+/>
+</p>
 
-To start a local development server, run:
+---
 
-```bash
-ng serve
-```
+## 🚀 Tecnologias Utilizadas
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
-## Code scaffolding
+### **Frontend**
+- **HTML5**: Estruturação do conteúdo e layout das páginas.
+- **CSS3**: Estilização de componentes, animações e design responsivo para todas as telas.
+- **JavaScript**: Interatividade em quizzes, carregamento dinâmico de conteúdo e respostas do usuário.
+- **Bootstrap**: Utilizado para grids responsivos, componentes pré-estilizados e design mobile-first.
+- **Font Awesome**: Ícones integrados para uma experiência visual aprimorada.
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+### **Ferramentas e Hospedagem**
+- **Git**: Controle de versão e colaboração.
+- **GitHub Pages**: Hospedagem da demo ao vivo *(se aplicável)*.
 
-```bash
-ng generate component component-name
-```
+---
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+## 🔍 Funcionalidades Principais
 
-```bash
-ng generate --help
-```
+- **Quizzes Interativos**: Usuários respondem perguntas e recebem resultados personalizados.
+- **Design Responsivo**: Adapta-se a desktops, tablets e dispositivos móveis.
+- **Conteúdo Dinâmico**: Animações e atualizações em tempo real com JavaScript.
+- **UI Moderna**: Interface limpa e intuitiva inspirada no design do BuzzFeed.
 
-## Building
 
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
