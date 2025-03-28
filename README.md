@@ -1,4 +1,4 @@
-# Projeto Clone BuzzFeed 🎯
+# [Projeto Clone BuzzFeed](https://arturllopes.github.io/Projeto-CloneBuzzFeed-DIO/)🎯
 
 Bem-vindo ao projeto **Clone BuzzFeed**! Este repositório contém uma réplica dinâmica e interativa do popular site BuzzFeed, desenvolvido como parte do Bootcamp Decola Tec 2025 da Digital Innovation One (DIO). O projeto foca na criação de quizzes envolventes e conteúdo baseado em listas, com um design moderno e responsivo.
 
